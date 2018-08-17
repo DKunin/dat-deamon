@@ -11,13 +11,10 @@
     "url": "https://github.com/dkunin/dat-deamon/issues"
   },
   "scripts": {
-    "test": "echo test",
-    "start": "node ./",
-    "dev": "node ./",
-    "build": "NODE_ENV=production node ./"
+    "test": "node test.js"
   },
   "homepage": "https://github.com/dkunin/dat-deamon",
-  "keywords": [],
+  "keywords": ["dat", "p2p", "dat-node"],
   "license": "MIT",
   "dependencies": {
     "dat-node": "3.5.12"
