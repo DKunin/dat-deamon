@@ -29,4 +29,8 @@ datDeamon.start({
 
 ```
 
+### Probably better alternatives
+- [Hashbase](https://hashbase.io/)
+- [Homebase](https://github.com/beakerbrowser/homebase)
+
 MIT @dkunin
